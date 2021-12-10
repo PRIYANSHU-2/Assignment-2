@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.KING{
+    background-color:slategray;
+    color: white;
+    margin: inherit;
+}
+#first{
+    background-color: rgb(50, 50, 158);
+    color: white;
+    
+}
+#second{
+    margin: 50px;
+}
+#third{
+    background-image: url("https://iul.ac.in/CA/images/slider/CA-1.JPG");
+}
+#fourth{
+    margin-top: 50px;
+    margin-left: 70px;
+}
+
+.hod{
+    margin-top: 50px;
+    margin-left: 60px;
+}
+.ss{
+    background-color: rgba(180, 167, 172, 0.884);
+}
+.head{
+    background-color: lightblue;
+}
+.reg{
+    background-position: center;
+    background-color: rgba(130, 189, 236, 0.76);
+    padding: 8px;
+    font-weight: bold;
+    text-align: center;
+
+}
+#img{
+    width: 100%;
+}
